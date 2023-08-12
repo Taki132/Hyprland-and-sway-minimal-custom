@@ -1,0 +1,712 @@
+2023-08-11T13:41:46.570Z [Modules] Modules initializing
+2023-08-11T13:41:46.572Z [Modules] Distribution: remote
+2023-08-11T13:41:46.572Z [Modules] Host updates: enabled
+2023-08-11T13:41:46.573Z [Modules] Module updates: enabled
+2023-08-11T13:41:46.574Z [Modules] Module install path: /home/karuto/.config/discord/0.0.28/modules
+2023-08-11T13:41:46.575Z [Modules] Module installed file path: /home/karuto/.config/discord/0.0.28/modules/installed.json
+2023-08-11T13:41:46.575Z [Modules] Module download path: /home/karuto/.config/discord/0.0.28/modules/pending
+2023-08-11T13:41:47.336Z [Modules] Bootstrapping...
+2023-08-11T13:41:47.338Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-08-11T13:41:47.340Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-08-11T13:41:47.342Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-08-11T13:41:47.346Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-08-11T13:41:47.347Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-08-11T13:41:47.349Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-08-11T13:41:47.349Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-08-11T13:41:47.351Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-08-11T13:41:47.352Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-08-11T13:41:47.353Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-08-11T13:41:47.354Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-08-11T13:41:47.354Z [Modules] Checking for host updates.
+2023-08-11T13:41:48.530Z [Modules] Host is up to date.
+2023-08-11T13:41:48.530Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T13:41:48.655Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-08-11T13:41:48.656Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-08-11T13:41:48.656Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-08-11T13:41:48.657Z [Modules] Module update available: discord_utils@2 [installed: 0]
+2023-08-11T13:41:48.657Z [Modules] Module update available: discord_voice@2 [installed: 0]
+2023-08-11T13:41:48.659Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-08-11T13:41:48.659Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip
+2023-08-11T13:41:49.740Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 1%
+2023-08-11T13:41:49.827Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 2%
+2023-08-11T13:41:49.942Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 3%
+2023-08-11T13:41:50.012Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 4%
+2023-08-11T13:41:50.069Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 5%
+2023-08-11T13:41:50.108Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 6%
+2023-08-11T13:41:50.146Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 7%
+2023-08-11T13:41:50.210Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 8%
+2023-08-11T13:41:50.212Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 9%
+2023-08-11T13:41:50.238Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 10%
+2023-08-11T13:41:50.277Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 11%
+2023-08-11T13:41:50.293Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 12%
+2023-08-11T13:41:50.308Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 13%
+2023-08-11T13:41:50.338Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 14%
+2023-08-11T13:41:50.349Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 15%
+2023-08-11T13:41:50.363Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 16%
+2023-08-11T13:41:50.373Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 17%
+2023-08-11T13:41:50.394Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 18%
+2023-08-11T13:41:50.404Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 19%
+2023-08-11T13:41:50.415Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 20%
+2023-08-11T13:41:50.433Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 21%
+2023-08-11T13:41:50.442Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 22%
+2023-08-11T13:41:50.453Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 23%
+2023-08-11T13:41:50.461Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 24%
+2023-08-11T13:41:50.476Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 25%
+2023-08-11T13:41:50.484Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 26%
+2023-08-11T13:41:50.490Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 27%
+2023-08-11T13:41:50.509Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 28%
+2023-08-11T13:41:50.512Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 29%
+2023-08-11T13:41:50.519Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 30%
+2023-08-11T13:41:50.525Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 31%
+2023-08-11T13:41:50.539Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 32%
+2023-08-11T13:41:50.545Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 33%
+2023-08-11T13:41:50.551Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 34%
+2023-08-11T13:41:50.563Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 35%
+2023-08-11T13:41:50.567Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 36%
+2023-08-11T13:41:50.573Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 37%
+2023-08-11T13:41:50.578Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 38%
+2023-08-11T13:41:50.588Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 39%
+2023-08-11T13:41:50.593Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 40%
+2023-08-11T13:41:50.598Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 41%
+2023-08-11T13:41:50.608Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 42%
+2023-08-11T13:41:50.612Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 43%
+2023-08-11T13:41:50.616Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 44%
+2023-08-11T13:41:50.621Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 45%
+2023-08-11T13:41:50.630Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 46%
+2023-08-11T13:41:50.633Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 47%
+2023-08-11T13:41:50.638Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 48%
+2023-08-11T13:41:50.645Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 49%
+2023-08-11T13:41:50.650Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 50%
+2023-08-11T13:41:50.653Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 51%
+2023-08-11T13:41:50.657Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 52%
+2023-08-11T13:41:50.666Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 53%
+2023-08-11T13:41:50.669Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 54%
+2023-08-11T13:41:50.673Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 55%
+2023-08-11T13:41:50.681Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 56%
+2023-08-11T13:41:50.684Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 57%
+2023-08-11T13:41:50.692Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 58%
+2023-08-11T13:41:50.696Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 59%
+2023-08-11T13:41:50.700Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 60%
+2023-08-11T13:41:50.702Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 61%
+2023-08-11T13:41:50.707Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 62%
+2023-08-11T13:41:50.714Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 63%
+2023-08-11T13:41:50.715Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 64%
+2023-08-11T13:41:50.719Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 65%
+2023-08-11T13:41:50.721Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 66%
+2023-08-11T13:41:50.727Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 67%
+2023-08-11T13:41:50.730Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 68%
+2023-08-11T13:41:50.734Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 69%
+2023-08-11T13:41:50.739Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 70%
+2023-08-11T13:41:50.742Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 71%
+2023-08-11T13:41:50.744Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 72%
+2023-08-11T13:41:50.748Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 73%
+2023-08-11T13:41:50.753Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 74%
+2023-08-11T13:41:50.756Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 75%
+2023-08-11T13:41:50.760Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 76%
+2023-08-11T13:41:50.764Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 77%
+2023-08-11T13:41:50.769Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 78%
+2023-08-11T13:41:50.771Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 79%
+2023-08-11T13:41:50.773Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 80%
+2023-08-11T13:41:50.777Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 81%
+2023-08-11T13:41:50.782Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 83%
+2023-08-11T13:41:50.791Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 85%
+2023-08-11T13:41:50.793Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 86%
+2023-08-11T13:41:50.798Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 87%
+2023-08-11T13:41:50.800Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 88%
+2023-08-11T13:41:50.802Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 89%
+2023-08-11T13:41:50.806Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 90%
+2023-08-11T13:41:50.812Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 92%
+2023-08-11T13:41:50.814Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 93%
+2023-08-11T13:41:50.818Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 94%
+2023-08-11T13:41:50.820Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 95%
+2023-08-11T13:41:50.822Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 96%
+2023-08-11T13:41:50.825Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 97%
+2023-08-11T13:41:50.827Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 98%
+2023-08-11T13:41:50.834Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 99%
+2023-08-11T13:41:50.835Z [Modules] Streaming discord_desktop_core@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 100%
+2023-08-11T13:41:50.837Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-08-11T13:41:50.837Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip
+2023-08-11T13:41:51.306Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 1%
+2023-08-11T13:41:51.310Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 2%
+2023-08-11T13:41:51.311Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 3%
+2023-08-11T13:41:51.313Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 4%
+2023-08-11T13:41:51.316Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 6%
+2023-08-11T13:41:51.317Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 7%
+2023-08-11T13:41:51.319Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 8%
+2023-08-11T13:41:51.320Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 9%
+2023-08-11T13:41:51.324Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 11%
+2023-08-11T13:41:51.326Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 12%
+2023-08-11T13:41:51.330Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 14%
+2023-08-11T13:41:51.331Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 15%
+2023-08-11T13:41:51.334Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 17%
+2023-08-11T13:41:51.567Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 18%
+2023-08-11T13:41:51.575Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 20%
+2023-08-11T13:41:51.582Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 22%
+2023-08-11T13:41:51.584Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 26%
+2023-08-11T13:41:51.586Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 34%
+2023-08-11T13:41:51.587Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 38%
+2023-08-11T13:41:51.597Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 39%
+2023-08-11T13:41:51.613Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 40%
+2023-08-11T13:41:51.616Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 44%
+2023-08-11T13:41:51.619Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 55%
+2023-08-11T13:41:51.622Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 59%
+2023-08-11T13:41:51.652Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 61%
+2023-08-11T13:41:51.655Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 63%
+2023-08-11T13:41:51.661Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 64%
+2023-08-11T13:41:51.666Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 68%
+2023-08-11T13:41:51.673Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 81%
+2023-08-11T13:41:51.676Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 89%
+2023-08-11T13:41:51.680Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 96%
+2023-08-11T13:41:51.683Z [Modules] Streaming discord_erlpack@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 100%
+2023-08-11T13:41:51.687Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-08-11T13:41:51.688Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip
+2023-08-11T13:41:52.175Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 1%
+2023-08-11T13:41:52.183Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 2%
+2023-08-11T13:41:52.436Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 3%
+2023-08-11T13:41:52.441Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 4%
+2023-08-11T13:41:52.442Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 6%
+2023-08-11T13:41:52.453Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 7%
+2023-08-11T13:41:52.455Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 8%
+2023-08-11T13:41:52.458Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 9%
+2023-08-11T13:41:52.470Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 10%
+2023-08-11T13:41:52.480Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 11%
+2023-08-11T13:41:52.481Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 12%
+2023-08-11T13:41:52.483Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 13%
+2023-08-11T13:41:52.497Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 14%
+2023-08-11T13:41:52.500Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 15%
+2023-08-11T13:41:52.501Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 16%
+2023-08-11T13:41:52.527Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 17%
+2023-08-11T13:41:52.533Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 18%
+2023-08-11T13:41:52.534Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 19%
+2023-08-11T13:41:52.535Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 20%
+2023-08-11T13:41:52.565Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 21%
+2023-08-11T13:41:52.566Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 22%
+2023-08-11T13:41:52.567Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 23%
+2023-08-11T13:41:52.575Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 24%
+2023-08-11T13:41:52.580Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 25%
+2023-08-11T13:41:52.581Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 26%
+2023-08-11T13:41:52.582Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 27%
+2023-08-11T13:41:52.591Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 28%
+2023-08-11T13:41:52.595Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 29%
+2023-08-11T13:41:52.596Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 30%
+2023-08-11T13:41:52.597Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 32%
+2023-08-11T13:41:52.598Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 33%
+2023-08-11T13:41:52.679Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 34%
+2023-08-11T13:41:52.693Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 35%
+2023-08-11T13:41:52.931Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 36%
+2023-08-11T13:41:52.946Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 37%
+2023-08-11T13:41:52.950Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 38%
+2023-08-11T13:41:52.953Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 39%
+2023-08-11T13:41:52.962Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 40%
+2023-08-11T13:41:52.964Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 41%
+2023-08-11T13:41:52.979Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 42%
+2023-08-11T13:41:52.986Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 43%
+2023-08-11T13:41:52.988Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 44%
+2023-08-11T13:41:52.994Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 45%
+2023-08-11T13:41:53.003Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 46%
+2023-08-11T13:41:53.009Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 47%
+2023-08-11T13:41:53.251Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 48%
+2023-08-11T13:41:53.259Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 49%
+2023-08-11T13:41:53.551Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 50%
+2023-08-11T13:41:53.556Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 51%
+2023-08-11T13:41:53.559Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 52%
+2023-08-11T13:41:53.564Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 53%
+2023-08-11T13:41:53.568Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 55%
+2023-08-11T13:41:53.572Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 56%
+2023-08-11T13:41:53.576Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 57%
+2023-08-11T13:41:53.578Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 59%
+2023-08-11T13:41:53.580Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 60%
+2023-08-11T13:41:53.581Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 61%
+2023-08-11T13:41:53.583Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 62%
+2023-08-11T13:41:53.584Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 64%
+2023-08-11T13:41:53.585Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 65%
+2023-08-11T13:41:53.586Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 66%
+2023-08-11T13:41:53.587Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 67%
+2023-08-11T13:41:53.588Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 68%
+2023-08-11T13:41:53.589Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 69%
+2023-08-11T13:41:53.589Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 70%
+2023-08-11T13:41:53.590Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 71%
+2023-08-11T13:41:53.734Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 72%
+2023-08-11T13:41:53.747Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 73%
+2023-08-11T13:41:53.990Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 74%
+2023-08-11T13:41:54.001Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 75%
+2023-08-11T13:41:54.010Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 76%
+2023-08-11T13:41:54.019Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 77%
+2023-08-11T13:41:54.244Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 78%
+2023-08-11T13:41:54.249Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 79%
+2023-08-11T13:41:54.260Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 80%
+2023-08-11T13:41:54.266Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 81%
+2023-08-11T13:41:54.268Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 82%
+2023-08-11T13:41:54.269Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 83%
+2023-08-11T13:41:54.328Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 84%
+2023-08-11T13:41:54.573Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 85%
+2023-08-11T13:41:54.576Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 86%
+2023-08-11T13:41:54.583Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 87%
+2023-08-11T13:41:54.585Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 88%
+2023-08-11T13:41:54.587Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 89%
+2023-08-11T13:41:55.029Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 90%
+2023-08-11T13:41:55.032Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 91%
+2023-08-11T13:41:55.034Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 93%
+2023-08-11T13:41:55.037Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 94%
+2023-08-11T13:41:55.040Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 95%
+2023-08-11T13:41:55.042Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 96%
+2023-08-11T13:41:55.044Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 97%
+2023-08-11T13:41:55.047Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 99%
+2023-08-11T13:41:55.050Z [Modules] Streaming discord_spellcheck@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 100%
+2023-08-11T13:41:55.054Z [Modules] Fetching discord_utils@2 from https://discord.com/api/modules/stable/discord_utils/2
+2023-08-11T13:41:55.054Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip
+2023-08-11T13:41:55.552Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 1%
+2023-08-11T13:41:55.579Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 2%
+2023-08-11T13:41:55.582Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 3%
+2023-08-11T13:41:55.598Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 4%
+2023-08-11T13:41:55.616Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 5%
+2023-08-11T13:41:55.628Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 6%
+2023-08-11T13:41:55.640Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 7%
+2023-08-11T13:41:55.654Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 8%
+2023-08-11T13:41:55.666Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 9%
+2023-08-11T13:41:55.685Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 10%
+2023-08-11T13:41:56.218Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 11%
+2023-08-11T13:41:56.347Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 12%
+2023-08-11T13:41:56.363Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 13%
+2023-08-11T13:41:56.374Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 14%
+2023-08-11T13:41:56.388Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 15%
+2023-08-11T13:41:56.408Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 16%
+2023-08-11T13:41:56.421Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 17%
+2023-08-11T13:41:56.436Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 18%
+2023-08-11T13:41:56.450Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 19%
+2023-08-11T13:41:56.463Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 20%
+2023-08-11T13:41:56.474Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 22%
+2023-08-11T13:41:56.476Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 24%
+2023-08-11T13:41:56.477Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 28%
+2023-08-11T13:41:56.479Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 29%
+2023-08-11T13:41:56.490Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 30%
+2023-08-11T13:41:56.506Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 31%
+2023-08-11T13:41:56.516Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 32%
+2023-08-11T13:41:56.524Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 33%
+2023-08-11T13:41:56.535Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 34%
+2023-08-11T13:41:56.544Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 35%
+2023-08-11T13:41:56.554Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 36%
+2023-08-11T13:41:56.563Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 37%
+2023-08-11T13:41:56.567Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 38%
+2023-08-11T13:41:56.576Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 39%
+2023-08-11T13:41:56.584Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 40%
+2023-08-11T13:41:56.597Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 41%
+2023-08-11T13:41:56.617Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 42%
+2023-08-11T13:41:56.632Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 43%
+2023-08-11T13:41:56.645Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 44%
+2023-08-11T13:41:56.658Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 45%
+2023-08-11T13:41:56.672Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 46%
+2023-08-11T13:41:56.693Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 47%
+2023-08-11T13:41:56.707Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 48%
+2023-08-11T13:41:56.721Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 49%
+2023-08-11T13:41:56.736Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 50%
+2023-08-11T13:41:56.749Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 51%
+2023-08-11T13:41:56.768Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 52%
+2023-08-11T13:41:56.831Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 53%
+2023-08-11T13:41:56.832Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 55%
+2023-08-11T13:41:56.833Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 56%
+2023-08-11T13:41:56.844Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 57%
+2023-08-11T13:41:56.859Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 58%
+2023-08-11T13:41:56.872Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 59%
+2023-08-11T13:41:56.885Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 60%
+2023-08-11T13:41:56.904Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 61%
+2023-08-11T13:41:56.921Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 62%
+2023-08-11T13:41:56.934Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 63%
+2023-08-11T13:41:56.949Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 64%
+2023-08-11T13:41:56.963Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 65%
+2023-08-11T13:41:56.976Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 66%
+2023-08-11T13:41:56.997Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 67%
+2023-08-11T13:41:57.010Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 68%
+2023-08-11T13:41:57.025Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 69%
+2023-08-11T13:41:57.038Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 70%
+2023-08-11T13:41:57.051Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 71%
+2023-08-11T13:41:57.066Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 72%
+2023-08-11T13:41:57.089Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 73%
+2023-08-11T13:41:57.101Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 74%
+2023-08-11T13:41:57.116Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 75%
+2023-08-11T13:41:57.127Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 76%
+2023-08-11T13:41:57.144Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 77%
+2023-08-11T13:41:57.162Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 78%
+2023-08-11T13:41:57.176Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 79%
+2023-08-11T13:41:57.191Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 80%
+2023-08-11T13:41:57.204Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 81%
+2023-08-11T13:41:57.220Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 82%
+2023-08-11T13:41:57.240Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 83%
+2023-08-11T13:41:57.254Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 84%
+2023-08-11T13:41:57.269Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 85%
+2023-08-11T13:41:57.282Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 86%
+2023-08-11T13:41:57.301Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 87%
+2023-08-11T13:41:57.315Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 88%
+2023-08-11T13:41:57.326Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 89%
+2023-08-11T13:41:57.336Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 90%
+2023-08-11T13:41:57.349Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 91%
+2023-08-11T13:41:57.358Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 92%
+2023-08-11T13:41:57.375Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 93%
+2023-08-11T13:41:57.385Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 94%
+2023-08-11T13:41:57.397Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 95%
+2023-08-11T13:41:57.407Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 96%
+2023-08-11T13:41:57.420Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 97%
+2023-08-11T13:41:57.430Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 98%
+2023-08-11T13:41:57.446Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 99%
+2023-08-11T13:41:57.451Z [Modules] Streaming discord_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 100%
+2023-08-11T13:41:57.453Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2023-08-11T13:41:57.453Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip
+2023-08-11T13:41:58.018Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 1%
+2023-08-11T13:41:58.088Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 2%
+2023-08-11T13:41:58.150Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 3%
+2023-08-11T13:41:58.211Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 4%
+2023-08-11T13:41:58.267Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 5%
+2023-08-11T13:41:58.328Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 6%
+2023-08-11T13:41:58.414Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 7%
+2023-08-11T13:41:58.476Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 8%
+2023-08-11T13:41:58.576Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 9%
+2023-08-11T13:41:58.596Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 10%
+2023-08-11T13:41:58.654Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 11%
+2023-08-11T13:41:58.710Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 12%
+2023-08-11T13:41:58.767Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 13%
+2023-08-11T13:41:58.828Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 14%
+2023-08-11T13:41:58.885Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 15%
+2023-08-11T13:41:58.938Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 16%
+2023-08-11T13:41:59.000Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 17%
+2023-08-11T13:41:59.058Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 18%
+2023-08-11T13:41:59.115Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 19%
+2023-08-11T13:41:59.177Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 20%
+2023-08-11T13:41:59.233Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 21%
+2023-08-11T13:41:59.288Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 22%
+2023-08-11T13:41:59.346Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 23%
+2023-08-11T13:41:59.410Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 24%
+2023-08-11T13:41:59.463Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 25%
+2023-08-11T13:41:59.510Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 26%
+2023-08-11T13:41:59.559Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 27%
+2023-08-11T13:41:59.606Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 28%
+2023-08-11T13:41:59.653Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 29%
+2023-08-11T13:41:59.966Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 30%
+2023-08-11T13:41:59.973Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 31%
+2023-08-11T13:41:59.980Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 32%
+2023-08-11T13:41:59.981Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 33%
+2023-08-11T13:41:59.984Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 34%
+2023-08-11T13:41:59.986Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 35%
+2023-08-11T13:42:00.030Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 36%
+2023-08-11T13:42:00.079Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 37%
+2023-08-11T13:42:00.123Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 38%
+2023-08-11T13:42:00.171Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 39%
+2023-08-11T13:42:00.243Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 40%
+2023-08-11T13:42:00.311Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 41%
+2023-08-11T13:42:00.315Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 42%
+2023-08-11T13:42:00.362Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 43%
+2023-08-11T13:42:00.415Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 44%
+2023-08-11T13:42:00.462Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 45%
+2023-08-11T13:42:01.087Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 46%
+2023-08-11T13:42:01.135Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 47%
+2023-08-11T13:42:01.191Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 48%
+2023-08-11T13:42:01.233Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 49%
+2023-08-11T13:42:01.277Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 50%
+2023-08-11T13:42:01.333Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 51%
+2023-08-11T13:42:01.375Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 52%
+2023-08-11T13:42:01.446Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 53%
+2023-08-11T13:42:01.475Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 54%
+2023-08-11T13:42:01.525Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 55%
+2023-08-11T13:42:01.561Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 56%
+2023-08-11T13:42:01.607Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 57%
+2023-08-11T13:42:01.657Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 58%
+2023-08-11T13:42:01.706Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 59%
+2023-08-11T13:42:01.756Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 60%
+2023-08-11T13:42:01.805Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 61%
+2023-08-11T13:42:01.867Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 62%
+2023-08-11T13:42:01.901Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 63%
+2023-08-11T13:42:01.966Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 64%
+2023-08-11T13:42:02.002Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 65%
+2023-08-11T13:42:02.037Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 66%
+2023-08-11T13:42:02.073Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 67%
+2023-08-11T13:42:02.113Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 68%
+2023-08-11T13:42:02.151Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 69%
+2023-08-11T13:42:02.192Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 70%
+2023-08-11T13:42:02.254Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 71%
+2023-08-11T13:42:02.298Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 72%
+2023-08-11T13:42:02.340Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 73%
+2023-08-11T13:42:02.380Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 74%
+2023-08-11T13:42:02.421Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 75%
+2023-08-11T13:42:02.465Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 76%
+2023-08-11T13:42:02.523Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 77%
+2023-08-11T13:42:02.557Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 78%
+2023-08-11T13:42:02.585Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 79%
+2023-08-11T13:42:02.623Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 80%
+2023-08-11T13:42:02.705Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 81%
+2023-08-11T13:42:02.777Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 82%
+2023-08-11T13:42:02.831Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 83%
+2023-08-11T13:42:02.859Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 84%
+2023-08-11T13:42:03.174Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 85%
+2023-08-11T13:42:03.184Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 86%
+2023-08-11T13:42:03.189Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 87%
+2023-08-11T13:42:03.196Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 88%
+2023-08-11T13:42:03.198Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 89%
+2023-08-11T13:42:03.344Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 90%
+2023-08-11T13:42:03.359Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 91%
+2023-08-11T13:42:03.385Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 92%
+2023-08-11T13:42:03.393Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 93%
+2023-08-11T13:42:03.397Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 94%
+2023-08-11T13:42:03.400Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 95%
+2023-08-11T13:42:03.401Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 96%
+2023-08-11T13:42:03.404Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 97%
+2023-08-11T13:42:03.413Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 98%
+2023-08-11T13:42:03.448Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 99%
+2023-08-11T13:42:03.471Z [Modules] Streaming discord_voice@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 100%
+2023-08-11T13:42:03.474Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-08-11T13:42:03.475Z [Modules] Installing updates...
+2023-08-11T13:42:03.475Z [Modules] Installing discord_desktop_core@1 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip
+2023-08-11T13:42:03.634Z [Modules] Installing discord_erlpack@1 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip
+2023-08-11T13:42:03.778Z [Modules] Installing discord_spellcheck@1 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip
+2023-08-11T13:42:05.302Z [Modules] Installing discord_utils@2 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_utils-2.zip
+2023-08-11T13:42:06.185Z [Modules] Installing discord_voice@2 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_voice-2.zip
+2023-08-11T13:42:07.581Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-08-11T13:42:07.582Z [Modules] Checking for host updates.
+2023-08-11T13:42:07.861Z [Modules] Host is up to date.
+2023-08-11T13:42:07.862Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T13:42:07.868Z [Modules] No module updates available.
+2023-08-11T13:42:14.477Z [Modules] Starting to install discord_krisp...
+2023-08-11T13:42:14.477Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-08-11T13:42:14.478Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip
+2023-08-11T13:42:14.513Z [Modules] Starting to install discord_game_utils...
+2023-08-11T13:42:15.005Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 1%
+2023-08-11T13:42:15.045Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 2%
+2023-08-11T13:42:15.081Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 3%
+2023-08-11T13:42:15.133Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 4%
+2023-08-11T13:42:15.348Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 5%
+2023-08-11T13:42:15.369Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 6%
+2023-08-11T13:42:15.459Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 7%
+2023-08-11T13:42:15.467Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 8%
+2023-08-11T13:42:15.484Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 9%
+2023-08-11T13:42:15.511Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 10%
+2023-08-11T13:42:15.515Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 11%
+2023-08-11T13:42:15.520Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 12%
+2023-08-11T13:42:15.787Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 13%
+2023-08-11T13:42:15.887Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 14%
+2023-08-11T13:42:15.892Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 15%
+2023-08-11T13:42:15.895Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 16%
+2023-08-11T13:42:15.897Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 17%
+2023-08-11T13:42:15.898Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 18%
+2023-08-11T13:42:15.969Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 19%
+2023-08-11T13:42:15.986Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 20%
+2023-08-11T13:42:15.987Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 21%
+2023-08-11T13:42:15.991Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 22%
+2023-08-11T13:42:16.213Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 23%
+2023-08-11T13:42:16.246Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 24%
+2023-08-11T13:42:16.259Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 25%
+2023-08-11T13:42:16.345Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 26%
+2023-08-11T13:42:16.347Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 27%
+2023-08-11T13:42:16.475Z [Modules] Checking for host updates.
+2023-08-11T13:42:16.526Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 28%
+2023-08-11T13:42:16.551Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 29%
+2023-08-11T13:42:16.553Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 30%
+2023-08-11T13:42:16.575Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 31%
+2023-08-11T13:42:16.580Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 32%
+2023-08-11T13:42:16.581Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 33%
+2023-08-11T13:42:16.583Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 34%
+2023-08-11T13:42:16.585Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 35%
+2023-08-11T13:42:16.588Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 36%
+2023-08-11T13:42:16.591Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 37%
+2023-08-11T13:42:16.594Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 38%
+2023-08-11T13:42:16.747Z [Modules] Host is up to date.
+2023-08-11T13:42:16.747Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T13:42:16.751Z [Modules] No module updates available.
+2023-08-11T13:42:17.137Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 39%
+2023-08-11T13:42:17.138Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 40%
+2023-08-11T13:42:17.143Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 41%
+2023-08-11T13:42:17.147Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 42%
+2023-08-11T13:42:17.149Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 43%
+2023-08-11T13:42:17.151Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 44%
+2023-08-11T13:42:17.153Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 45%
+2023-08-11T13:42:17.155Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 46%
+2023-08-11T13:42:17.157Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 47%
+2023-08-11T13:42:17.158Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 48%
+2023-08-11T13:42:17.162Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 49%
+2023-08-11T13:42:17.172Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 50%
+2023-08-11T13:42:17.221Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 51%
+2023-08-11T13:42:17.277Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 52%
+2023-08-11T13:42:17.310Z [Modules] Starting to install discord_rpc...
+2023-08-11T13:42:17.348Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 53%
+2023-08-11T13:42:17.384Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 54%
+2023-08-11T13:42:17.418Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 55%
+2023-08-11T13:42:17.449Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 56%
+2023-08-11T13:42:17.485Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 57%
+2023-08-11T13:42:17.519Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 58%
+2023-08-11T13:42:17.577Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 59%
+2023-08-11T13:42:17.596Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 60%
+2023-08-11T13:42:17.662Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 62%
+2023-08-11T13:42:17.833Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 65%
+2023-08-11T13:42:17.892Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 68%
+2023-08-11T13:42:17.936Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 69%
+2023-08-11T13:42:17.968Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 70%
+2023-08-11T13:42:18.047Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 71%
+2023-08-11T13:42:18.131Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 72%
+2023-08-11T13:42:18.271Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 73%
+2023-08-11T13:42:18.343Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 74%
+2023-08-11T13:42:18.410Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 75%
+2023-08-11T13:42:18.579Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 76%
+2023-08-11T13:42:18.638Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 77%
+2023-08-11T13:42:18.721Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 78%
+2023-08-11T13:42:18.723Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 79%
+2023-08-11T13:42:18.724Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 80%
+2023-08-11T13:42:18.726Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 81%
+2023-08-11T13:42:18.728Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 82%
+2023-08-11T13:42:18.730Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 83%
+2023-08-11T13:42:18.732Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 84%
+2023-08-11T13:42:18.735Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 85%
+2023-08-11T13:42:18.739Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 86%
+2023-08-11T13:42:18.741Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 87%
+2023-08-11T13:42:18.743Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 88%
+2023-08-11T13:42:18.745Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 89%
+2023-08-11T13:42:18.747Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 90%
+2023-08-11T13:42:18.748Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 91%
+2023-08-11T13:42:18.750Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 92%
+2023-08-11T13:42:18.752Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 93%
+2023-08-11T13:42:18.753Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 94%
+2023-08-11T13:42:18.755Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 95%
+2023-08-11T13:42:18.756Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 96%
+2023-08-11T13:42:18.758Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 97%
+2023-08-11T13:42:18.932Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 98%
+2023-08-11T13:42:18.959Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 99%
+2023-08-11T13:42:18.985Z [Modules] Streaming discord_krisp@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 100%
+2023-08-11T13:42:19.002Z [Modules] Fetching discord_game_utils@2 from https://discord.com/api/modules/stable/discord_game_utils/2
+2023-08-11T13:42:19.002Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip
+2023-08-11T13:42:19.002Z [Modules] Installing discord_krisp@1 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip
+2023-08-11T13:42:19.483Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 2%
+2023-08-11T13:42:19.486Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 3%
+2023-08-11T13:42:19.490Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 4%
+2023-08-11T13:42:19.493Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 5%
+2023-08-11T13:42:19.496Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 6%
+2023-08-11T13:42:19.498Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 7%
+2023-08-11T13:42:19.501Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 8%
+2023-08-11T13:42:19.505Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 9%
+2023-08-11T13:42:19.507Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 10%
+2023-08-11T13:42:19.510Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 11%
+2023-08-11T13:42:19.517Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 13%
+2023-08-11T13:42:19.522Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 15%
+2023-08-11T13:42:19.529Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 17%
+2023-08-11T13:42:19.532Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 18%
+2023-08-11T13:42:19.534Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 19%
+2023-08-11T13:42:19.540Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 21%
+2023-08-11T13:42:19.545Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 22%
+2023-08-11T13:42:19.548Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 23%
+2023-08-11T13:42:19.550Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 24%
+2023-08-11T13:42:19.553Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 25%
+2023-08-11T13:42:19.558Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 26%
+2023-08-11T13:42:19.568Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 29%
+2023-08-11T13:42:19.570Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 30%
+2023-08-11T13:42:19.582Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 33%
+2023-08-11T13:42:19.591Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 36%
+2023-08-11T13:42:19.596Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 38%
+2023-08-11T13:42:19.607Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 42%
+2023-08-11T13:42:19.622Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 46%
+2023-08-11T13:42:19.626Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 47%
+2023-08-11T13:42:19.636Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 52%
+2023-08-11T13:42:19.649Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 54%
+2023-08-11T13:42:19.663Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 59%
+2023-08-11T13:42:19.689Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 66%
+2023-08-11T13:42:19.707Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 72%
+2023-08-11T13:42:19.710Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 73%
+2023-08-11T13:42:19.736Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 83%
+2023-08-11T13:42:19.755Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 84%
+2023-08-11T13:42:19.763Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 91%
+2023-08-11T13:42:19.768Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 93%
+2023-08-11T13:42:19.788Z [Modules] Streaming discord_game_utils@2 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 100%
+2023-08-11T13:42:19.796Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-08-11T13:42:19.797Z [Modules] Streaming discord_rpc@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_rpc-1.zip
+2023-08-11T13:42:20.269Z [Modules] Streaming discord_rpc@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_rpc-1.zip: 39%
+2023-08-11T13:42:20.272Z [Modules] Streaming discord_rpc@1 to /home/karuto/.config/discord/0.0.28/modules/pending/discord_rpc-1.zip: 100%
+2023-08-11T13:42:20.276Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-08-11T13:42:20.823Z [Modules] Installing discord_game_utils@2 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip
+2023-08-11T13:42:21.061Z [Modules] Installing discord_rpc@1 from /home/karuto/.config/discord/0.0.28/modules/pending/discord_rpc-1.zip
+2023-08-11T13:42:21.199Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-08-11T14:04:32.414Z [Modules] Modules initializing
+2023-08-11T14:04:32.414Z [Modules] Distribution: remote
+2023-08-11T14:04:32.414Z [Modules] Host updates: enabled
+2023-08-11T14:04:32.415Z [Modules] Module updates: enabled
+2023-08-11T14:04:32.415Z [Modules] Module install path: /home/karuto/.config/discord/0.0.28/modules
+2023-08-11T14:04:32.415Z [Modules] Module installed file path: /home/karuto/.config/discord/0.0.28/modules/installed.json
+2023-08-11T14:04:32.416Z [Modules] Module download path: /home/karuto/.config/discord/0.0.28/modules/pending
+2023-08-11T14:04:32.854Z [Modules] No updates to install
+2023-08-11T14:04:32.855Z [Modules] Checking for host updates.
+2023-08-11T14:04:33.632Z [Modules] Host is up to date.
+2023-08-11T14:04:33.634Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T14:04:33.713Z [Modules] No module updates available.
+2023-08-11T14:04:42.781Z [Modules] Checking for host updates.
+2023-08-11T14:04:43.119Z [Modules] Host is up to date.
+2023-08-11T14:04:43.119Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T14:04:43.125Z [Modules] No module updates available.
+2023-08-11T14:05:49.786Z [Modules] Checking for host updates.
+2023-08-11T14:05:50.077Z [Modules] Host is up to date.
+2023-08-11T14:05:50.077Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T14:05:50.161Z [Modules] No module updates available.
+2023-08-11T14:08:14.828Z [Modules] Checking for host updates.
+2023-08-11T14:08:15.118Z [Modules] Host is up to date.
+2023-08-11T14:08:15.118Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T14:08:15.150Z [Modules] No module updates available.
+2023-08-12T04:17:01.730Z [Modules] Modules initializing
+2023-08-12T04:17:01.730Z [Modules] Distribution: remote
+2023-08-12T04:17:01.730Z [Modules] Host updates: enabled
+2023-08-12T04:17:01.731Z [Modules] Module updates: enabled
+2023-08-12T04:17:01.731Z [Modules] Module install path: /home/karuto/.config/discord/0.0.28/modules
+2023-08-12T04:17:01.731Z [Modules] Module installed file path: /home/karuto/.config/discord/0.0.28/modules/installed.json
+2023-08-12T04:17:01.732Z [Modules] Module download path: /home/karuto/.config/discord/0.0.28/modules/pending
+2023-08-12T04:17:02.604Z [Modules] No updates to install
+2023-08-12T04:17:02.605Z [Modules] Checking for host updates.
+2023-08-12T04:17:03.277Z [Modules] Host is up to date.
+2023-08-12T04:17:03.280Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T04:17:03.352Z [Modules] No module updates available.
+2023-08-12T04:17:25.332Z [Modules] Checking for host updates.
+2023-08-12T04:17:25.622Z [Modules] Host is up to date.
+2023-08-12T04:17:25.623Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T04:17:25.628Z [Modules] No module updates available.
+2023-08-12T04:19:44.780Z [Modules] Modules initializing
+2023-08-12T04:19:44.780Z [Modules] Distribution: remote
+2023-08-12T04:19:44.780Z [Modules] Host updates: enabled
+2023-08-12T04:19:44.781Z [Modules] Module updates: enabled
+2023-08-12T04:19:44.781Z [Modules] Module install path: /home/karuto/.config/discord/0.0.28/modules
+2023-08-12T04:19:44.781Z [Modules] Module installed file path: /home/karuto/.config/discord/0.0.28/modules/installed.json
+2023-08-12T04:19:44.782Z [Modules] Module download path: /home/karuto/.config/discord/0.0.28/modules/pending
+2023-08-12T04:19:45.179Z [Modules] No updates to install
+2023-08-12T04:19:45.180Z [Modules] Checking for host updates.
+2023-08-12T04:19:45.902Z [Modules] Host is up to date.
+2023-08-12T04:19:45.902Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T04:19:45.933Z [Modules] No module updates available.
+2023-08-12T04:19:54.162Z [Modules] Checking for host updates.
+2023-08-12T04:19:54.430Z [Modules] Host is up to date.
+2023-08-12T04:19:54.431Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T04:19:54.437Z [Modules] No module updates available.
+2023-08-12T05:19:54.216Z [Modules] Checking for host updates.
+2023-08-12T05:19:54.703Z [Modules] Host is up to date.
+2023-08-12T05:19:54.704Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T05:19:54.786Z [Modules] No module updates available.
+2023-08-12T06:19:54.164Z [Modules] Checking for host updates.
+2023-08-12T06:19:54.523Z [Modules] Host is up to date.
+2023-08-12T06:19:54.523Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T06:19:54.583Z [Modules] No module updates available.
+2023-08-12T07:19:54.164Z [Modules] Checking for host updates.
+2023-08-12T07:19:54.521Z [Modules] Host is up to date.
+2023-08-12T07:19:54.522Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T07:19:54.874Z [Modules] No module updates available.
+2023-08-12T08:19:54.164Z [Modules] Checking for host updates.
+2023-08-12T08:19:54.485Z [Modules] Host is up to date.
+2023-08-12T08:19:54.485Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T08:19:54.549Z [Modules] No module updates available.
+2023-08-12T09:19:54.164Z [Modules] Checking for host updates.
+2023-08-12T09:19:54.482Z [Modules] Host is up to date.
+2023-08-12T09:19:54.482Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T09:19:54.534Z [Modules] No module updates available.
+2023-08-12T10:19:54.164Z [Modules] Checking for host updates.
+2023-08-12T10:19:54.523Z [Modules] Host is up to date.
+2023-08-12T10:19:54.524Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T10:19:54.596Z [Modules] No module updates available.
+2023-08-12T11:19:54.164Z [Modules] Checking for host updates.
+2023-08-12T11:19:54.866Z [Modules] Host is up to date.
+2023-08-12T11:19:54.866Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T11:19:54.936Z [Modules] No module updates available.
+2023-08-12T12:19:54.166Z [Modules] Checking for host updates.
+2023-08-12T12:19:54.557Z [Modules] Host is up to date.
+2023-08-12T12:19:54.558Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T12:19:54.692Z [Modules] No module updates available.
+2023-08-12T13:19:54.238Z [Modules] Checking for host updates.
+2023-08-12T13:19:54.540Z [Modules] Host is up to date.
+2023-08-12T13:19:54.540Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T13:19:54.616Z [Modules] No module updates available.

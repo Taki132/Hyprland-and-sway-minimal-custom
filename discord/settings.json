@@ -1,0 +1,13 @@
+{
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 1388,
+    "y": 22,
+    "width": 1876,
+    "height": 1036
+  },
+  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
+  "MIN_WIDTH": 940,
+  "MIN_HEIGHT": 500
+}
